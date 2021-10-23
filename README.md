@@ -44,4 +44,4 @@ When using this library, remember to install these `peerDependencies`.
 ## About `d.ts`
 TypeScript declaration files will generated into `lib` folder once you build this template. That means the decalration files will be published in the npm package.
 
-Also, `.vue.d.ts` will also be generated for Vue SFC.
+Also, `.vue.d.ts` will be generated for Vue SFC.
